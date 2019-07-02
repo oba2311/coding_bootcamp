@@ -7,4 +7,4 @@ class BST(object):
     def __init__(self):
         """Docstring."""
         super(BST, self).__init__()
-        self.arg = arg
+        self.left = left
