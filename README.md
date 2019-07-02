@@ -42,7 +42,7 @@
 - - [ ] [Explorium blog](https://www.explorium.ai/complexity-vs-explainability/)
 
 ### Companies to check:
-- - [ ] WSX sports
+- - [ ] WSC sports
 - - [ ] Moneta Companies: https://www.binah.ai/
 - - [ ] Moneta Companies: https://www.rewire.to/il
 - - [ ] ClimaCell (Hemo / Noam)
