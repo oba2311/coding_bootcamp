@@ -10,12 +10,13 @@
 ### Product:
 1. - [ ] Finish on Wix'es home task.
 2. - [ ] Figure out Fintech resources.
-
+----------------
+## Goals for week 2 starting July XX:
 
 ----------------
 ### Other Resources:
 1.  FE:
-- - [ ] Bootstrap: https://www.coursera.org/learn/bootstrap-4
+- - [ ] [Bootstrap](https://www.coursera.org/learn/bootstrap-4)
 - - [ ] asdf
 - - [ ] asdf
 
@@ -32,3 +33,16 @@
 
 4. Python:
 - - [ ] https://campus.datacamp.com/courses/pandas-foundations/data-ingestion-inspection?ex=1
+
+----------------
+### Review:
+- - [ ] ER Diagrams.
+
+### Read:
+- - [ ] [Explorium blog](https://www.explorium.ai/complexity-vs-explainability/)
+
+### Companies to check:
+- - [ ] WSX sports
+- - [ ] Moneta Companies: https://www.binah.ai/
+- - [ ] Moneta Companies: https://www.rewire.to/il
+- - [ ] ClimaCell (Hemo / Noam)
