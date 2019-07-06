@@ -5,8 +5,8 @@ The tasks now are designed around building products, rather than mastering a spe
 
 ### Products to build:
 |Priority | Taks |Done|
-|:---------: |: ------ |:----:|
-|1        | build a webapp that will present my daily Fintech news feed.|⬜️|
+|:---------:|:------|:----:|
+|1|build a webapp that will present my daily Fintech news feed.|⬜️|
 
 ### Not products:
 |Priority | Taks |Done|
