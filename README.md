@@ -1,18 +1,30 @@
+## Goals for week 2 starting July 7th:
+
+Following last week's mediocre results, here are the tasks ordered by priority.
+The tasks now are designed around building products, rather than mastering a specific skill.
+
+### Products to build:
+- [ ] build a webapp that will present my daily Fintech news feed.
+
+### Not products:
+- [ ] Finish on Wix'es home task.
+- [ ] Cover 5 important LPTHW exercises.
+- [ ] SQL for datascience course - finish 33-50%.
+- [ ] Solve 2 easy Leetcode exercises with python.
+- [ ] Solve 1 Java Cracking the Coding exercises.
+----------------
 ## Goals for week 1 starting June 30th:
 
 ### Coding and Data:
-1. - [ ] Review SQL basics.
-2. - [ ] Practice SQL with S3 and GCS with a simple DB.
-3.  - [ ] Cover 10 important LPTHW exercises.
-4. - [ ] Solve 3 easy Leetcode exercises with python.
-5. - [ ] Solve 1 Java Cracking the Coding exercises.
+1. ~- [ ] Review SQL basics.~
+2. ~- [ ] Practice SQL with S3 and GCS with a simple DB.~
+3. ~- [ ] Cover 10 important LPTHW exercises.~
+4. - [ ] Solve 3 easy Leetcode exercises with python.[ _continues_ ]
+5. - [ ] Solve 1 Java Cracking the Coding exercises.[ _continues_ ]
 
 ### Product:
-1. - [ ] Finish on Wix'es home task.
-2. - [ ] Figure out Fintech resources.
-----------------
-## Goals for week 2 starting July XX:
-
+1. - [ ] Finish on Wix'es home task.[ _continues_ ]
+2. - [ ] Figure out Fintech resources. [ _modified_ ]
 ----------------
 ### Other Resources:
 1.  FE:
