@@ -12,9 +12,9 @@ The tasks now are designed around building products, rather than mastering a spe
 |Priority | Task |Done|
 |-------- |----- |----|
 |1| Finish Wix'es home task.    |⬜️|
-|2|  SQL for datascience course - finish 33-50%.|⬜️|
+|2|  SQL for datascience course - finish 33-50%.|✅|
 |3|  Cover 5 important LPTHW exercises.|⬜️|
-|4| Solve 2 easy Leetcode exercises with python.|⬜️|
+|4| Solve 2 easy Leetcode/Codility exercises with python.|⬜️|
 |5| Solve 1 Java Cracking the Coding exercises.|⬜️|
 
 ### Othres:
