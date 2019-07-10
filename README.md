@@ -4,19 +4,24 @@ Following last week's mediocre results, here are the tasks ordered by priority.
 The tasks now are designed around building products, rather than mastering a specific skill.
 
 ### Products to build:
-|Priority | Taks |Done|
+|Priority | Task |Done ⬜️ / ✅|
 |:---------:|:------|:----:|
 |1|build a webapp that will present my daily Fintech news feed.|⬜️|
 
 ### Not products:
-|Priority | Taks |Done|
+|Priority | Task |Done|
 |-------- |----- |----|
-|1| Finish Wix'es home task.|⬜️|
+|1| Finish Wix'es home task.    |⬜️|
 |2|  SQL for datascience course - finish 33-50%.|⬜️|
 |3|  Cover 5 important LPTHW exercises.|⬜️|
 |4| Solve 2 easy Leetcode exercises with python.|⬜️|
 |5| Solve 1 Java Cracking the Coding exercises.|⬜️|
 
+### Othres:
+|Priority | Task |Done|
+|-------- |----- |----|
+|1| Post Giovana's post on econ group.    |⬜️|
+|2| Fix Bicycle.    |⬜️|
 ----------------
 
 ## Goals for week 1 starting June 30th:
@@ -35,8 +40,6 @@ The tasks now are designed around building products, rather than mastering a spe
 ### Other Resources:
 1.  FE:
 - - [ ] [Bootstrap](https://www.coursera.org/learn/bootstrap-4)
-- - [ ] asdf
-- - [ ] asdf
 
 2. Data Cleaning and viz:
 - - [ ] https://app.dataquest.io/dashboard
