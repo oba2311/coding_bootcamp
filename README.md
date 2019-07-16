@@ -9,12 +9,20 @@ The tasks now are designed around building products, rather than mastering a spe
 |1|build a webapp that will present my daily Fintech news feed.|⬜️|
 
 ### Not products:
-|Priority | Task |Done|
+|Priority | Task |Done ⬜️ / ✅|
 |-------- |----- |----|
 |1| Finish Wix'es home task.    |⬜️|
 |2|  SQL for datascience course - finish 33-50%.|✅|
+unexpected tasks:
+-- Review and cover MySQL thoroughly:
+https://gist.github.com/hofmannsven/9164408
+https://www.sqlteaching.com/
+https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P
+-- Cover SQLAlchemy from:
+https://bento.io/topic/sqlalchemy |⬜️|
+https://www.youtube.com/watch?v=woKYyhLCcnU
 |3|  Cover 5 important LPTHW exercises.|⬜️|
-|4| Solve 2 easy Leetcode/Codility exercises with python.|⬜️|
+|4| Solve 2 easy Leetcode/Codility exercises with python.| 1/2 ⬜️|
 |5| Solve 1 Java Cracking the Coding exercises.|⬜️|
 
 ### Othres:
@@ -67,3 +75,8 @@ The tasks now are designed around building products, rather than mastering a spe
 - - [ ] Moneta Company - [Binah](https://www.binah.ai/)
 - - [ ] Moneta Companies - [Rewire](https://www.rewire.to/il)
 - - [ ] ClimaCell (Hemo / Noam)
+
+-----------------------
+### Things to read/check one day:
+- - [ ] ![Record Ghangouts for a podcast:](https://www.youtube.com/watch?v=1txV3zlw0Lg)
+- - [ ] read about ![Venn](https://il.venn.city/),and  ![SuperCo](https://superc.co/)
