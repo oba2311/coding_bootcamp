@@ -13,33 +13,35 @@ The tasks now are designed around building products, rather than mastering a spe
 |-------- |----- |----|
 |1| Finish Wix'es home task.    |✅|
 |2|  SQL for datascience course - finish 33-50%.|✅|
-unexpected tasks:
--- Review and cover MySQL thoroughly:
+|3|  Cover 5 important LPTHW exercises.|⬜️|
+|4| Solve 2 easy Leetcode/Codility exercises with python.| 1/2 ⬜️|
+|5| Solve 1 Java Cracking the Coding exercises.|⬜️|
+
+
+#### unexpected tasks:
+* Review and cover MySQL thoroughly:
 https://gist.github.com/hofmannsven/9164408 |⬜️|
 https://www.sqlteaching.com/ |⬜️|
 https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
 
--- Cover SQLAlchemy from:
+* Cover SQLAlchemy from:
 https://bento.io/topic/sqlalchemy |⬜️|
 https://www.youtube.com/watch?v=woKYyhLCcnU |⬜️|
 https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
 
--- Review and cover pandas and Python:
+* Review and cover pandas and Python:
 https://www.datacamp.com/courses/pandas-foundations |⬜️|
 https://app.dataquest.io/m/291/introduction-to-pandas |⬜️|
 https://app.dataquest.io/course/pandas-fundamentals |⬜️|
 Object Oriented Python https://app.dataquest.io/m/352/object-oriented-python |⬜️|
-
-|3|  Cover 5 important LPTHW exercises.|⬜️|
-|4| Solve 2 easy Leetcode/Codility exercises with python.| 1/2 ⬜️|
-|5| Solve 1 Java Cracking the Coding exercises.|⬜️|
 
 ### Othres:
 |Priority | Task |Done|
 |-------- |----- |----|
 |1| Post Giovana's post on econ group.    |⬜️|
 |2| Fix Bicycle.    |⬜️|
-----------------
+
+----------------------
 
 ## Goals for week 1 starting June 30th:
 
