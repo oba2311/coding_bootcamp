@@ -19,21 +19,22 @@ The tasks now are designed around building products, rather than mastering a spe
 
 
 #### unexpected tasks:
-* Review and cover MySQL thoroughly:
-https://gist.github.com/hofmannsven/9164408 |⬜️|
-https://www.sqlteaching.com/ |⬜️|
-https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
+Review and cover MySQL thoroughly:
+* https://gist.github.com/hofmannsven/9164408 |⬜️|
+* https://www.sqlteaching.com/ |⬜️|
+* https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
 
-* Cover SQLAlchemy from:
-https://bento.io/topic/sqlalchemy |⬜️|
-https://www.youtube.com/watch?v=woKYyhLCcnU |⬜️|
-https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
+Cover SQLAlchemy from:
+* https://bento.io/topic/sqlalchemy |⬜️|
+* https://www.youtube.com/watch?v=woKYyhLCcnU |⬜️|
+* https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
 
-* Review and cover pandas and Python:
-https://www.datacamp.com/courses/pandas-foundations |⬜️|
-https://app.dataquest.io/m/291/introduction-to-pandas |⬜️|
-https://app.dataquest.io/course/pandas-fundamentals |⬜️|
-Object Oriented Python https://app.dataquest.io/m/352/object-oriented-python |⬜️|
+Review and cover pandas and Python:
+* https://www.datacamp.com/courses/pandas-foundations |⬜️|
+* https://app.dataquest.io/m/291/introduction-to-pandas |⬜️|
+* https://app.dataquest.io/course/pandas-fundamentals |⬜️|
+Object Oriented Python:
+* https://app.dataquest.io/m/352/object-oriented-python |⬜️|
 
 ### Othres:
 |Priority | Task |Done|
