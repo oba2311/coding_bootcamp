@@ -1,3 +1,14 @@
+## 21/07:
+Review and cover MySQL thoroughly:
+
+* https://www.sqlteaching.com/ |⬜️|
+* https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
+
+Cover SQLAlchemy from:
+* https://bento.io/topic/sqlalchemy |⬜️|
+* https://www.youtube.com/watch?v=woKYyhLCcnU |⬜️|
+* https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
+--------------
 ## Goals for week 2 (and 3) starting July 7th:
 
 Following last week's mediocre results, here are the tasks ordered by priority.
