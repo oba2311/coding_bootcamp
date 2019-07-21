@@ -33,13 +33,14 @@ Review and cover pandas and Python:
 * https://www.datacamp.com/courses/pandas-foundations |⬜️|
 * https://app.dataquest.io/m/291/introduction-to-pandas |⬜️|
 * https://app.dataquest.io/course/pandas-fundamentals |⬜️|
+
 Object Oriented Python:
 * https://app.dataquest.io/m/352/object-oriented-python |⬜️|
 
 ### Othres:
 |Priority | Task |Done|
 |-------- |----- |----|
-|1| Post Giovana's post on econ group.    |⬜️|
+|1| Post Giovana's post on econ group.   |✅|
 |2| Fix Bicycle.    |⬜️|
 
 ----------------------
