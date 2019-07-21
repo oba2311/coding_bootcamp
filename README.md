@@ -20,7 +20,7 @@ The tasks now are designed around building products, rather than mastering a spe
 
 #### unexpected tasks:
 Review and cover MySQL thoroughly:
-* https://gist.github.com/hofmannsven/9164408 |⬜️|
+* https://gist.github.com/hofmannsven/9164408 |✅|
 * https://www.sqlteaching.com/ |⬜️|
 * https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
 
