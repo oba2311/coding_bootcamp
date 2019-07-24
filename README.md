@@ -1,8 +1,24 @@
+## 24/07:
+* basics of SQLAlchemy |⬜️|
+* Prep for ChargeAfter |⬜️|
+
+## 23/07:
+* 5 SQL Questions |✅|
+* Playtika |✅|
+* basics of SQLAlchemy |⬜️|
+* Prep for ChargeAfter |⬜️|
+
+Cover SQLAlchemy from:
+* https://bento.io/topic/sqlalchemy |⬜️|
+* https://www.youtube.com/watch?v=woKYyhLCcnU |⬜️|
+* https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
+
 ## 21/07:
 Review and cover MySQL thoroughly:
 
-* https://www.sqlteaching.com/ |⬜️|
-* https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
+* https://www.sqlteaching.com/ |✅|
+* https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |✅|
+* LeetCode Questions - 5 more |✅|
 
 Cover SQLAlchemy from:
 * https://bento.io/topic/sqlalchemy |⬜️|
@@ -32,8 +48,8 @@ The tasks now are designed around building products, rather than mastering a spe
 #### unexpected tasks:
 Review and cover MySQL thoroughly:
 * https://gist.github.com/hofmannsven/9164408 |✅|
-* https://www.sqlteaching.com/ |⬜️|
-* https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |⬜️|
+* https://www.sqlteaching.com/ |✅|
+* https://www.youtube.com/playlist?list=PLfdtiltiRHWEw4-kRrh1ZZy_3OcQxTn7P |✅|
 
 Cover SQLAlchemy from:
 * https://bento.io/topic/sqlalchemy |⬜️|
