@@ -71,7 +71,8 @@ Cover SQLAlchemy from:
 * https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
 
 Review and cover pandas and Python:
-* https://www.datacamp.com/courses/pandas-foundations |⬜️|
+* ~https://www.datacamp.com/courses/pandas-foundations |⬜️|~ ($$$)
+* https://www.youtube.com/watch?v=EaGbS7eWSs0&list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy&index=5 |✅|
 * https://app.dataquest.io/m/291/introduction-to-pandas |⬜️|
 * https://app.dataquest.io/course/pandas-fundamentals |⬜️|
 
@@ -112,10 +113,7 @@ Object Oriented Python:
 - - [ ] Qiqi?
 
 3. DBs:
-- - [ ] https://campus.datacamp.com/courses/introduction-to-relational-databases-in-python/basics-of-relational-databases
-
-4. Python:
-- - [ ] https://campus.datacamp.com/courses/pandas-foundations/data-ingestion-inspection?ex=1
+- - [ ]
 
 ----------------
 ### Review:
@@ -127,7 +125,7 @@ Object Oriented Python:
 ### Companies to check:
 - - [X] [WSC  sports](https://wsc-sports.com/)
 - - [ ] Moneta Company - [Binah](https://www.binah.ai/)
-- - [ ] Moneta Companies - [Rewire](https://www.rewire.to/il)
+- - [X] Moneta Companies - [Rewire](https://www.rewire.to/il)
 - - [ ] ClimaCell (Hemo / Noam)
 
 -----------------------
