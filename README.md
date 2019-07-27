@@ -1,6 +1,20 @@
-## 24/07:
-* basics of SQLAlchemy |⬜️|
+## 29/07:
 * Prep for ChargeAfter |⬜️|
+* submit Playtika |⬜️|
+
+## 28/07:
+* Call Chris Michaels |⬜️|
+
+## 25/07 - 26/07 - 27/07:
+* 5 SQL Qs |✅|
+* Finish SQLAlchemy |✅|
+* Review pandas |⬜️|
+* Finish Playtika |⬜️|
+
+## 24/07:
+* basics of SQLAlchemy |✅|
+* Prep for ChargeAfter |⬜️|
+
 
 ## 23/07:
 * 5 SQL Questions |✅|
@@ -9,8 +23,8 @@
 * Prep for ChargeAfter |⬜️|
 
 Cover SQLAlchemy from:
-* https://bento.io/topic/sqlalchemy |⬜️|
-* https://www.youtube.com/watch?v=woKYyhLCcnU |⬜️|
+* https://bento.io/topic/sqlalchemy |✅|
+* https://www.youtube.com/watch?v=woKYyhLCcnU |✅|
 * https://www.datacamp.com/courses/introduction-to-relational-databases-in-python |⬜️|
 
 ## 21/07:
