@@ -1,14 +1,24 @@
+## 01/08:
+* Finish Playtika |⬜️|
+* Create a simple Flask App. |✅|
+----------------------------
+
+## 31/07:
+* Finish Playtika |⬜️|
+* Set a plan for August week #1 |⬜️|
+
 ## 29/07:
 * Prep for ChargeAfter |⬜️|
 * submit Playtika |⬜️|
+* Call Chris Michaels |⬜️|
 
 ## 28/07:
-* Call Chris Michaels |⬜️|
+* Call Chris Michaels |⬜️| (this is actually sunday...)
 
 ## 25/07 - 26/07 - 27/07:
 * 5 SQL Qs |✅|
 * Finish SQLAlchemy |✅|
-* Review pandas |⬜️|
+* Review pandas |✅|
 * Finish Playtika |⬜️|
 
 ## 24/07:

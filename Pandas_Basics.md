@@ -89,12 +89,10 @@ df.fillna({
   })
 ```
 
-(More advanced methods to fill in data gaps coming in another post. such as
+(More advanced methods to fill in data gaps coming in another post. such as:)
   ```
   df.ffil(),
   df.bfil()
   df.interpolate()
   df.dropna()
-
   ```
-  )
