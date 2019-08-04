@@ -1,0 +1,16 @@
+"*":
+  "atom-runner":
+    paneSplitDirection: "Down"
+  core:
+    telemetryConsent: "no"
+  editor:
+    fontSize: 15
+  "exception-reporting":
+    userId: "ebf4d6fe-239b-466f-a1b4-48519030884b"
+  "fuzzy-finder":
+    scoringSystem: "fast"
+    useRipGrep: true
+  "linter-ui-default":
+    panelHeight: 300
+  welcome:
+    showOnStartup: false
