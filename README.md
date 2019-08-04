@@ -1,6 +1,20 @@
+## 04/08:
+* Zeitgold's task |⬜️|
+
+## 03/08:
+* Plan for August |⬜️|
+* Plan for Q4 |⬜️|
+
+
+
+## 02/08:
+* [Implement tiktaktoe from:](https://www.youtube.com/watch?v=pP23CtOI-1U&list=PLhQjrBD2T381Q6R1jRxgXknYO7VuTYPBI&index=4&t=0s) |⬜️|
+
+
 ## 01/08:
-* Finish Playtika |⬜️|
+* Finish Playtika |✅|
 * Create a simple Flask App. |✅|
+* get 40% of NBA EDA done.  |⬜️|
 ----------------------------
 
 ## 31/07:
@@ -129,9 +143,6 @@ Object Oriented Python:
 ### Review:
 - - [ ] ER Diagrams.
 
-### Read:
-- - [ ] [Explorium blog](https://www.explorium.ai/complexity-vs-explainability/)
-
 ### Companies to check:
 - - [X] [WSC  sports](https://wsc-sports.com/)
 - - [ ] Moneta Company - [Binah](https://www.binah.ai/)
@@ -145,7 +156,7 @@ Object Oriented Python:
 - - [ ] ![automate stuff with Python](https://automatetheboringstuff.com/)
 - - [ ] ![pick ML books to cover](https://www.youtube.com/watch?v=1lxHH1UBTBU)
 - - [ ] ![Learn neuroscience]https://online-learning.harvard.edu/series/fundamentals-neuroscience
-Some designed resources:
+## Some design resources:
 ![How Users Think](https://balsamiq.com/learn/courses/ui-design-psychology/how-users-think/)
 ![Call-To-Action 101: How to Create Great CTAs That Actually Convert
 ]https://www.wix.com/blog/2017/10/ctas-101-the-complete-guide-for-call-to-actions-that-actually-convert/?referralAdditionalInfo=BM_WHATS_NEXT
