@@ -25,10 +25,12 @@
 ### Data Engineering:
 1. [Learning SQL](http://www.r-5.org/files/books/computers/languages/sql/mysql/Alan_Beaulieu-Learning_SQL-EN.pdf) with Qs and As.
 2. [SQL Hacks](https://the-eye.eu/public/Books/HumbleBundle/sqlhacks.pdf)
+3. Very [recommended guide](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71) to data engineering by a datascientist turned data engineer. 3 parts.
 
 
 ### ML and DL:
 1. [DL path](https://github.com/robert8138/deep-learning-deliberate-practice)
+2. Stanfords very recommended (by others :)) [CNN course](http://cs231n.stanford.edu/)
 
 ### Technical book's PDFs:
 [Library of free books,](https://github.com/arasty/books)
