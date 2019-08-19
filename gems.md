@@ -35,3 +35,7 @@
 ### Technical book's PDFs:
 [Library of free books,](https://github.com/arasty/books)
 [and more](https://github.com/petyakostova/IT-Books)
+
+### Free Great Resources:
+1. [Back door](https://github.com/mikesprague/udacity-nanodegrees) to Udacity's content.
+2. [TheAlgorithm Project](https://github.com/TheAlgorithms/Python) - implementation of every classic algorithms.
