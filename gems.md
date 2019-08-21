@@ -7,7 +7,7 @@
 
 ## Datascience intro and general:
 1. [This one](https://medium.com/deliberate-data-science/12-things-i-wish-id-known-before-starting-as-a-data-scientist-45989be6300e) captures the important and overlooked aspects of datascience people usually tend to overlook.
-
+2. [Harvard's DS](http://cs109.github.io/2015/) - I've heard that is it supposed to be really great.
 
 
 ## Studying and skill gaining:

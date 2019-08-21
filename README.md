@@ -24,4 +24,6 @@ The goal for Q4 2019 is to review the fundamentals of data-science, to get bette
 - 1/12 -
 
 ### August:
-#### Week of  04/08:
+#### First two weeks:
+- curating content and seeking expert's advice.
+-
