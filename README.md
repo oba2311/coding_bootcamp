@@ -25,8 +25,8 @@ The goal for Q4 2019 is to review the fundamentals of data-science, to get bette
 
 **Long Term:**
 1. Be comfortable with all common ML models, i.e. apply and evaluate.
-2. Understand best ETL practices, and be exposed to good architecture.
-3.
+2. Understand best ETL practices, and get exposed to good architecture to develop a good eye for good and bad architecture.
+
 <br>
 
 <a name="Milestones"></a>
