@@ -2,7 +2,7 @@
 All projects executed as a personal endeavor / exploration of topics.
 Some parts could correspond with my work as a PM.
 
-# Table of Contents
+## Table of Contents
 1. [Learning Project for 2019 - Q4](#learning-Project-for-2019---Q4:)
   1. [Objectives](#Objectives:)
   2. [Milestones](#Milestones:)
