@@ -20,6 +20,7 @@
 
 ## Career:
 1. [Mixing skills](https://dilbertblog.typepad.com/the_dilbert_blog/2007/07/career-advice.html)
+2. [How options work](https://www.youtube.com/watch?v=sakQ5cqbNlE)
 
 ## Technical
 ### Data Engineering:
