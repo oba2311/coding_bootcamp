@@ -4,9 +4,9 @@ Some parts could correspond with my work as a PM.
 
 ## Table of Contents
 1. [Learning Project for 2019 - Q4](#2019)
-  1. [Objectives](#Objectives:)
-  2. [Milestones](#Milestones:)
-  3. [Job Done](#Job-Done:)
+  1. [Objectives](#Objectives)
+  2. [Milestones](#Milestones)
+  3. [Job Done](#Job-Done)
 
 
 <a name="2019"></a>
@@ -29,7 +29,7 @@ The goal for Q4 2019 is to review the fundamentals of data-science, to get bette
 3.
 <br>
 
-<a name="Milestones:"></a>
+<a name="Milestones"></a>
 ## Milestones:
 - 1/9 - Solve 100 SQL questions.
 - 1/10 - Build a MySQL DB, with ETL process such as ______.
@@ -37,7 +37,7 @@ The goal for Q4 2019 is to review the fundamentals of data-science, to get bette
 - 1/12 - ??
 - 1/1/20 - ??
 
-<a name="Job-Done:"></a>
+<a name="Job-Done"></a>
 ## Job Done:
 ### August:
 - curating content and seeking expert's advice.
