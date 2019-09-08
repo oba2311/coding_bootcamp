@@ -31,7 +31,7 @@ The goal for Q4 2019 is to review the fundamentals of data-science, to get bette
 
 <a name="Milestones"></a>
 ## Milestones:
-- 1/9 - Solve 100 SQL questions.
+- 1/9 - Solve 100 SQL questions. _29 to go!_
 - 1/10 - Build a MySQL DB, with ETL process such as ______.
 - 1/11 - Create a robust ML deployment infra like ______.
 - 1/12 - ??

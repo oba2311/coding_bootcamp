@@ -1,7 +1,11 @@
 # SQL Basics:
 
 ### Queries:
-SELECT fields FROM db_name WHERE/LIMIT ;
+SELECT fields FROM db_name
+WHERE
+GROUP BY
+HAVING
+LIMIT ;
 
 ### CREATE Tables:
 CREATE TABLE table_name (
@@ -21,4 +25,21 @@ INSERT INTO table_name(
 
 
 
-### JOINs:
+### JOINs:  
+
+![/joinsVenn.png](/joinsVenn.png)
+
+
+
+##Gotchas:
+- When using COUNT, DISTINCT will go inside the COUNT rather than the other way around.
+- There is a way to look for a column within all tables in a DB:
+```
+SELECT DISTINCT TABLE_NAME
+    FROM INFORMATION_SCHEMA.COLUMNS
+    WHERE COLUMN_NAME IN ('desired_column_here')
+        AND TABLE_SCHEMA='the_DBs_name';
+```
+
+- Aliases can be used once are set, for example they can be called in ORDER BY,
+and this way if the alias stands for a compound attribute (i.e. (COUNT(fieldname))) then the alias would capture the whole thing.
