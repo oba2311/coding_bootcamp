@@ -47,3 +47,9 @@ SELECT DISTINCT TABLE_NAME
 
 - Aliases can be used once are set, for example they can be called in ORDER BY,
 and this way if the alias stands for a compound attribute (i.e. `(COUNT(fieldname)`)) then the alias would capture the whole thing.
+
+
+# Teradata:
+- `Database db_name;` instead of `use db_name`.
+- `EXTRACT(MONTH FROM saledate)` of day / year to extract days.
+- 
