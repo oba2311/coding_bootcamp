@@ -2,7 +2,7 @@
 * Zeitgold's task |✅|
 
 ## 03/08:
-* Plan for August |⬜️|
+* Plan for August |⬜️| 
 * Plan for Q4 |⬜️|
 
 ## 02/08:
